@@ -1,5 +1,6 @@
 {
   "name": "react-tailwind-sample",
+  "description": "following guide from https://crstnmac.github.io/article/react-tailwind-storybook/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
